@@ -1,2 +1,5 @@
 *.zip
 *.zip
+/x64/
+*.log
+*.obj
